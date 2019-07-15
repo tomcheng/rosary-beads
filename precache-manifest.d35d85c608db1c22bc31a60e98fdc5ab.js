@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "46b5c8407aab266d611ee7637e9ce9cc",
+    "revision": "0f95cffa48af9aa638ccd5841f224219",
     "url": "/rosary-beads/index.html"
   },
   {
-    "revision": "737ca0cbdd4d21cbbfe2",
+    "revision": "d9150cdbd4730d43b064",
     "url": "/rosary-beads/static/css/main.6f15be26.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rosary-beads/static/js/2.a9f61dee.chunk.js"
   },
   {
-    "revision": "737ca0cbdd4d21cbbfe2",
-    "url": "/rosary-beads/static/js/main.6ed7d8de.chunk.js"
+    "revision": "d9150cdbd4730d43b064",
+    "url": "/rosary-beads/static/js/main.68980510.chunk.js"
   },
   {
     "revision": "7785fea76b139eef8025",

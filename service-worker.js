@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rosary-beads/precache-manifest.1ed7175f0e7af794f53230ebd0293180.js"
+  "/rosary-beads/precache-manifest.d35d85c608db1c22bc31a60e98fdc5ab.js"
 );
 
 self.addEventListener('message', (event) => {

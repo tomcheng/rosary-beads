@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.6f15be26.chunk.css",
-    "main.js": "/static/js/main.a482ec06.chunk.js",
-    "main.js.map": "/static/js/main.a482ec06.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.e826beb9.chunk.js": "/static/js/2.e826beb9.chunk.js",
-    "static/js/2.e826beb9.chunk.js.map": "/static/js/2.e826beb9.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4ca9220655f21fe8fb29bd75e7cb7257.js": "/precache-manifest.4ca9220655f21fe8fb29bd75e7cb7257.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.6f15be26.chunk.css.map": "/static/css/main.6f15be26.chunk.css.map"
+    "main.css": "/rosary-beads/static/css/main.6f15be26.chunk.css",
+    "main.js": "/rosary-beads/static/js/main.6ed7d8de.chunk.js",
+    "main.js.map": "/rosary-beads/static/js/main.6ed7d8de.chunk.js.map",
+    "runtime~main.js": "/rosary-beads/static/js/runtime~main.bc1e9d66.js",
+    "runtime~main.js.map": "/rosary-beads/static/js/runtime~main.bc1e9d66.js.map",
+    "static/js/2.a9f61dee.chunk.js": "/rosary-beads/static/js/2.a9f61dee.chunk.js",
+    "static/js/2.a9f61dee.chunk.js.map": "/rosary-beads/static/js/2.a9f61dee.chunk.js.map",
+    "index.html": "/rosary-beads/index.html",
+    "precache-manifest.1ed7175f0e7af794f53230ebd0293180.js": "/rosary-beads/precache-manifest.1ed7175f0e7af794f53230ebd0293180.js",
+    "service-worker.js": "/rosary-beads/service-worker.js",
+    "static/css/main.6f15be26.chunk.css.map": "/rosary-beads/static/css/main.6f15be26.chunk.css.map"
   }
 }

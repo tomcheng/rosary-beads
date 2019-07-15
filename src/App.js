@@ -177,7 +177,7 @@ const Ball = styled.div`
   margin-left: -${0.5 * BALL_SIZE}px;
   height: ${BALL_SIZE}px;
   width: ${BALL_SIZE}px;
-  background-color: #a55833;
+  background-color: #b7672e;
   border-radius: 50%;
 `;
 

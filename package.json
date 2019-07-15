@@ -1,5 +1,6 @@
 {
   "name": "rosary-beads",
+  "homepage": "https://tomcheng.github.io/rosary-beads",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
